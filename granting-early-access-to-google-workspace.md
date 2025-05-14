@@ -29,7 +29,3 @@ To assign Beta features to Admin groups in **Google Workspace**, follow these st
 When you see the following message appear, the Beta features have successfully been added to your team.
 
 ***Beta features are now enabled for this group.***
-
----
-
-##### **NOTE:** Portions of this documentation were refined with the help of Gemini to improve clarity and tone. 
